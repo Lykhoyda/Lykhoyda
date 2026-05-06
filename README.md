@@ -20,7 +20,7 @@ Frontend / React Native at [Getsafe](https://www.hellogetsafe.com/), a Berlin-ba
 
 ### 🧭 Before
 
-Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappeteer, Polkadot Snap, Zcash/Wasm), Volkswagen Group frontend platform at Hexad.
+Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappeteer, Polkadot Snap, Zcash/Wasm), Volkswagen Group via Hexad (Full-stack development React.js + Node)
 
 ### 🛠️ Stack
 
