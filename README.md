@@ -32,4 +32,4 @@ Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappete
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-Interested in agentic development workflows, Web3 security, and developer experience.
+Interested in agentic development workflows, automation, and developer experience.
