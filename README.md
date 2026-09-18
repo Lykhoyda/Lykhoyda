@@ -1,6 +1,6 @@
 # Anton Lykhoyda
 
-> Senior Software Engineer in Berlin. Building developer tools for the agentic era.
+> AI Engineer | Frontend | React Native. Building developer tools for the agentic era.
 
 [![Website](https://img.shields.io/badge/anton--lykhoyda.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://anton-lykhoyda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-lykhoyda/)
@@ -14,13 +14,13 @@ Frontend / React Native at [Getsafe](https://www.hellogetsafe.com/), a Berlin-ba
 
 ### 🔨 Building
 
-- [**ask-llm**](https://github.com/Lykhoyda/ask-llm) — MCP orchestration, 40+ AI clients
-- [**rn-dev-agent**](https://github.com/Lykhoyda/rn-dev-agent) — Claude Code plugin for React Native
+- [**ask-llm**](https://github.com/Lykhoyda/ask-llm) — Second opinions over MCP from Gemini, Codex, and other models
+- [**rn-dev-agent**](https://github.com/Lykhoyda/rn-dev-agent) — Claude Code, Codex, and Cursor plugin for React Native
 - [**Testudo**](https://github.com/Lykhoyda/Testudo) — Ethereum transaction security
 
 ### 🧭 Before
 
-Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappeteer, Polkadot Snap, Zcash/Wasm), Volkswagen Group via Hexad (Full-stack development React.js + Node)
+Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappeteer, Polkadot Snap, Zcash/Wasm). Full-stack React and Node at Volkswagen Group via Hexad.
 
 ### 🛠️ Stack
 
