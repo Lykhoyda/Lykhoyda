@@ -1,6 +1,6 @@
 # Anton Lykhoyda
 
-> AI Engineer | Frontend | React Native. Building developer tools for the agentic era.
+> Senior Software Engineer, AI Engineering. I build developer tools for the agentic era. 11+ years, based in Berlin.
 
 [![Website](https://img.shields.io/badge/anton--lykhoyda.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://anton-lykhoyda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-lykhoyda/)
@@ -8,21 +8,22 @@
 
 ---
 
-### ⚡ Now
+### Now
 
-Frontend / React Native at [Getsafe](https://www.hellogetsafe.com/), a Berlin-based digital insurance platform.
+Senior Frontend Engineer, React Native, at [Getsafe](https://www.hellogetsafe.com/), a Berlin-based digital insurance platform. I build internal AI tools and React Native features for the Getsafe apps.
 
-### 🔨 Building
+### Building
 
-- [**ask-llm**](https://github.com/Lykhoyda/ask-llm) — Second opinions over MCP from Gemini, Codex, and other models
-- [**rn-dev-agent**](https://github.com/Lykhoyda/rn-dev-agent) — Claude Code, Codex, and Cursor plugin for React Native
-- [**Testudo**](https://github.com/Lykhoyda/Testudo) — Ethereum transaction security
+- [**QaReN**](https://github.com/Lykhoyda/QaReN). A QA engineer for your coding agent. It tests each React Native change on a simulator and tells you PASS or FAIL, with video proof.
+- [**ask-llm**](https://github.com/Lykhoyda/ask-llm). An MCP (Model Context Protocol) server and CLI for second opinions from Codex, Claude, Gemini, Grok, and local Ollama models.
+- [**pi-cursor-subscription**](https://github.com/Lykhoyda/pi-cursor-subscription). An unofficial Pi Coding Agent provider that uses the models on your Cursor subscription, with no separate API key. On npm as [`@lykhoyda/pi-cursor-subscription`](https://www.npmjs.com/package/@lykhoyda/pi-cursor-subscription).
+- [**Testudo**](https://github.com/Lykhoyda/Testudo). A browser extension that checks EIP-7702 delegations and flags malicious wallet takeovers before you sign.
 
-### 🧭 Before
+### Before
 
-Senior Full-Stack at [ChainSafe](https://chainsafe.io) (cross-chain SDK, Dappeteer, Polkadot Snap, Zcash/Wasm). Full-stack React and Node at Volkswagen Group via Hexad.
+Full-stack engineer at [ChainSafe](https://chainsafe.io) from 2022 to 2025. I worked on a cross-chain TypeScript SDK, Dappeteer, a MetaMask Snap for Polkadot, and a Zcash wallet library in Rust compiled to WebAssembly. Before that, full-stack React and Node at Volkswagen Group via Hexad.
 
-### 🛠️ Stack
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
