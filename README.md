@@ -14,7 +14,7 @@ Senior Frontend Engineer, React Native, at [Getsafe](https://www.hellogetsafe.co
 
 ### Building
 
-- [**QaReN**](https://github.com/Lykhoyda/QaReN). A QA engineer for your coding agent. It tests each React Native change on a simulator and tells you PASS or FAIL, with video proof.
+- [**QaReN**](https://github.com/Lykhoyda/QaReN) (QA for React Native). A QA engineer for your coding agent. It tests each React Native change on a simulator and tells you PASS or FAIL, with video proof.
 - [**ask-llm**](https://github.com/Lykhoyda/ask-llm). An MCP (Model Context Protocol) server and CLI for second opinions from Codex, Claude, Gemini, Grok, and local Ollama models.
 - [**pi-cursor-subscription**](https://github.com/Lykhoyda/pi-cursor-subscription). An unofficial Pi Coding Agent provider that uses the models on your Cursor subscription, with no separate API key. On npm as [`@lykhoyda/pi-cursor-subscription`](https://www.npmjs.com/package/@lykhoyda/pi-cursor-subscription).
 - [**Testudo**](https://github.com/Lykhoyda/Testudo). A browser extension that checks EIP-7702 delegations and flags malicious wallet takeovers before you sign.
