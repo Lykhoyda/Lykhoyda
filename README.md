@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/anton--lykhoyda.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://anton-lykhoyda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-lykhoyda/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anton_lykhoyda)
 [![Email](https://img.shields.io/badge/Email-lykhoyda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lykhoyda@gmail.com)
 
 ---
