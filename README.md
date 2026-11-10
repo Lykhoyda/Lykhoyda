@@ -1,6 +1,6 @@
 # Anton Lykhoyda
 
-> Senior Software Engineer, AI Engineering. I build developer tools for the agentic era. 11+ years, based in Berlin.
+> Senior Software Engineer | AI Engineering, based in Berlin.
 
 [![Website](https://img.shields.io/badge/anton--lykhoyda.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://anton-lykhoyda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-lykhoyda/)
